@@ -1,6 +1,6 @@
 # VAMOS-Block-Generator
 
-Current Version: 1.4
+Current Version: 1.4.1
 
 Agencies Status:
 Caledonia: Updated
