@@ -5,7 +5,7 @@ Current Version: 1.4.2 (ALL GENERATORS)
 Agencies Status:
 Caledonia: Updated
 VAMOS: In-Development
-Cayuga: In-Development
+Cayuga: Updated
 Baritone: In-Development
 
 Made by Vopl_1029 for public use
